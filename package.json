@@ -1,0 +1,23 @@
+{
+  "name": "majunbao",
+  "version": "1.0.0",
+  "description": "Hellow gh-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majunbao/materialbao/"
+  },
+  "keywords": [
+    "google",
+    "material",
+    "design"
+  ],
+  "author": "mjbwork12@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  }
+}
