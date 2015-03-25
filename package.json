@@ -17,7 +17,8 @@
   ],
   "author": "mjbwork12@gmail.com",
   "license": "ISC",
-  "dependencies": {
-    "gulp": "^3.8.11"
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-replace": "^0.5.3"
   }
 }
