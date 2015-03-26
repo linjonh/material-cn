@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Google Material Design
 
 ## 本网站制作步骤
@@ -10,17 +9,14 @@
 
 ## 目录
 
-1.Material design
-  1.introduction
-2.What is material?
-3.Animation
-4.Style
-5.Layout
-6.Components
-7.Patterns
-8.Usability
-9.Resources
-10.What's new
-=======
-# material-cn
->>>>>>> 18fca46e0e43555f6011c4580035ffb98bb1d0c7
+1. Material design
+  1. introduction
+2. What is material?
+3. Animation
+4. Style
+5. Layout
+6. Components
+7. Patterns
+8. Usability
+9. Resources
+10. What's new
