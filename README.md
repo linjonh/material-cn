@@ -4,7 +4,7 @@
 
 1. 从 Google 官网，按序提取最新的前端代码，重新组合成静态页面。
 2. 因为网页内视频无法在 github 直接播放，所以把视频和图片资源放到 github 服务器上。因为编程能力有限，这里全部手动替换，只为了能让大家能看到案例中的视频。
-3. git clone 台湾人民翻译的 Google Material Design 版本(git地址)
+3. git clone 台湾人民翻译的 Google Material Design 版本([git地址](https://github.com/Wcc723/google_design_translate))
 4. 翻译成中文版(git地址)，打包重新上传。
 
 ## 目录
