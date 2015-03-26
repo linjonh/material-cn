@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Material Design
 
 ## 本网站制作步骤
@@ -20,3 +21,6 @@
 8.Usability
 9.Resources
 10.What's new
+=======
+# material-cn
+>>>>>>> 18fca46e0e43555f6011c4580035ffb98bb1d0c7
